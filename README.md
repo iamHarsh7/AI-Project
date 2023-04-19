@@ -7,11 +7,11 @@ The GUI allows the user to input the number of cars passing through each signal 
 
 done by
 
-Harshvardhan S A 
+Harshvardhan S A -
 University Registration number - 12102820
 
-Nalawade Shashikant kiran
+Nalawade Shashikant kiran -
 University Registration number - 12102682
 
-Nitin Kumar
+Nitin Kumar -
 University Registration number - 12102785
